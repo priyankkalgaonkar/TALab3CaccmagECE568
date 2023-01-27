@@ -9,7 +9,7 @@ Replace the default code with the code in "main.cpp" from this GitHub repo by cr
 - Keil Studio Cloud IDE
 
 ## Reporting Bugs
-Issues can be used to keep track of bugs, enhancements, or other requests. For more information, see [Creating an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). You are encouraged to create an issue if you need to report a bug or request an enhancement.
+[Issues](https://github.com/priyankkalgaonkar/TALab3CaccmagECE568/issues) can be used to keep track of bugs, enhancements, or other requests. For more information, see [Creating an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). You are encouraged to create an issue if you need to report a bug or request an enhancement.
 
 ## Discusstions
 GitHub Discussions is a collaborative communication forum. You can ask and answer questions, share updates, have open-ended conversations, and follow along on relevant decisions. Click on the [Discussions](https://github.com/priyankkalgaonkar/TALab3CaccmagECE568/discussions) tab on the top to get strated.
