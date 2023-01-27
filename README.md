@@ -1,6 +1,6 @@
 # Lab 3 - FXOS8700Q Accelerometer and Magnetometer Experiment 
 ## Introduction
-The accelerometer/magnetometer is connected to the I2C port, although both the accelerometer and magnetometer are contained within a single package, they must be initialized individually. Measurements from both devices (X,Y and Z axis) is performed and displayed at the serial terminal.
+The accelerometer/magnetometer is connected to the I2C port. Although both the accelerometer and magnetometer are contained within a single package, they must be initialized individually. Measurements from both devices (X,Y and Z axis) is performed and displayed at the serial terminal.
 
 Replace the default code with the code in "main.cpp" from this GitHub repo by creating an empty project OR clone the GitHub code in to your Keil Studio Cloud IDE (recommended).
 
