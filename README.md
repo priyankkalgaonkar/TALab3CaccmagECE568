@@ -13,8 +13,3 @@ Replace the default code with the code in "main.cpp" from this GitHub repo by cr
 
 ## Discusstions
 GitHub Discussions is a collaborative communication forum. You can ask and answer questions, share updates, have open-ended conversations, and follow along on relevant decisions. Click on the [Discussions](https://github.com/priyankkalgaonkar/TALab3CaccmagECE568/discussions) tab on the top to get strated.
-
-## Contributions
-- NXP Semiconductors N.V.
-- Prof. Dr. El-Sharkawy
-- Priyank Kalgaonkar
